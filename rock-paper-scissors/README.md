@@ -34,7 +34,7 @@ This project demonstrates several fundamental Python concepts:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/trucanhng/rock-paper-scissors.git
+git clone https://github.com/trucanhng/python-mini-projects.git
 cd rock-paper-scissors
 ```
 
