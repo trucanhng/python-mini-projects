@@ -1,6 +1,6 @@
 # Python-Mini-Projects
 
-A collection of Python mini projects from beginner- to advanced-level.
+A collection of Python mini projects demonstrating skills from beginner to advanced levels.
 
 ## Beginner
 
