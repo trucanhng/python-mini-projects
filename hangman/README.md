@@ -1,4 +1,4 @@
-# Password Generator
+# Hangman Game
 
 A simple command-line Hangman game.
 The player chooses a category (animals, fruits, countries, sports, technology), then tries to guess the hidden word letter by letter before running out of lives.
