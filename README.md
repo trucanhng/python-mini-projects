@@ -17,4 +17,8 @@ A collection of Python mini projects demonstrating skills from beginner to advan
     <td>2</td>
     <td><a href="password-generator/">Password Generator</a></td>
   </tr>
+   <tr>
+    <td>3</td>
+    <td><a href="hangman/">Hangman Game</a></td>
+  </tr>
 </table>
