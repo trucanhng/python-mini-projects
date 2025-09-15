@@ -6,7 +6,7 @@ The player chooses a category (animals, fruits, countries, sports, technology), 
 ## Features
 
 - Category selection (Animals, Fruits, Countries, Sports, Technology)
-- 6 lives with ASCII art handman stages
+- 6 lives with ASCII art hangman stages
 - Input validation (only single letters allowed)
 - Duplicate guess prevention
 - Replay option after each game
@@ -42,7 +42,6 @@ python3 hangman.py
 ```text
 Welcome to The Hangman World.
 Pick a category (animals/fruits/countries/sports/technology): animals
-koala
 The word has 5 letters.
 _____
 
